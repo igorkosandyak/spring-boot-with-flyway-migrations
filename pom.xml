@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.migrations</groupId>
-	<artifactId>db-learning</artifactId>
+	<artifactId>spring-boot-with-flyway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>db-learning</name>
 	<description>Spring Boot with MySQL</description>
